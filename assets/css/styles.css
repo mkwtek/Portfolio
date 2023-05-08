@@ -116,6 +116,7 @@ nav {
   .hero img {
     height: 37.5rem; /* 37.5 rem is equivalent to 600 pixels */
     width: 37.5rem;
+    object-fit: contain; /* keeps aspect ratio of pic */
   }
   
   .bio {
