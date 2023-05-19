@@ -345,8 +345,8 @@ nav {
     flex-direction: column;
     position: fixed;
     right: 1%;
-    bottom: 50%;
-
+    /* bottom: 50%; */
+    bottom: 61%;
         background-color: #fff;
         border-radius: 11px;
         box-shadow: 0 3px 8px var(--secondary-shadow);
