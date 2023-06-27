@@ -465,7 +465,8 @@ nav {
   }
 
   .more-about p {
-    text-align: justify;
+    /* text-align: justify; changed to fix odd looking spacing errors on mobile and make it look more readable */
+    text-align: left;
   }
 
   /* ------ Skills Section tablet & mobile responsiveness (still within Media Query brackets) ------*/
