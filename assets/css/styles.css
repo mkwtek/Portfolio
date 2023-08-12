@@ -173,6 +173,11 @@ nav {
   .more-about p {
     line-height: var(--line-height);
     padding: 0.4rem; /* 0.4 rem is equivalent to 6.4 pixels */ 
+
+    align-items: center;
+    justify-content: center;
+    max-width: 68.75rem; 
+    margin: auto;
   }
 
 /* End More About Section */
@@ -246,6 +251,7 @@ nav {
   
   .project-title {
     margin-bottom: var(--bottom-margin);
+    margin-top: 1rem;
   }
   
   .project-details {
